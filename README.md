@@ -9,7 +9,7 @@
   - Write your solution in brainstorm.playgroung file
   - Add your CV in repo
   - Commit, Push
-  - Email us with your fork repo url to hr@stdevmail.com
+  - Send your forked repo url to hr@stdevmail.com
 
 ## Requirements
 You must add your code in the following method and return the count of provided weekdays in the provided month of the year.
