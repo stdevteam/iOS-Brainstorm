@@ -1,6 +1,5 @@
 # iOS-Brainstorm  ![Swift 5.x](https://img.shields.io/badge/Swift-5.x-red.svg) ![iOS 10.0+](https://img.shields.io/badge/iOS-10.0+-blue.svg)
 
-[![N|STDev](https://st-dev.com/images/logo/logo.svg)](https://st-dev.com)
 
 #### Dear applicant, to apply for the position of iOS developer, follow the few steps described below.
 ##### Good luck and looking forward to meeting You!
